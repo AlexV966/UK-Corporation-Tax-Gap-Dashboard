@@ -1,0 +1,26 @@
+segment,year,gap_pct_of_liabilities,gap_gbp_bn
+Individual customers,2019-20,0.3,2.1
+Individual customers,2020-21,0.3,1.7
+Individual customers,2021-22,0.3,2.5
+Individual customers,2022-23,0.3,2.2
+Individual customers,2023-24,0.2,2.2
+Large businesses,2019-20,0.9,5.7
+Large businesses,2020-21,0.6,3.9
+Large businesses,2021-22,0.6,4.5
+Large businesses,2022-23,0.8,6.9
+Large businesses,2023-24,0.7,5.8
+Mid-sized businesses (charities and public bodies),2019-20,0.9,5.8
+Mid-sized businesses (charities and public bodies),2020-21,0.5,3.4
+Mid-sized businesses (charities and public bodies),2021-22,0.5,3.9
+Mid-sized businesses (charities and public bodies),2022-23,0.7,5.7
+Mid-sized businesses (charities and public bodies),2023-24,0.5,4.4
+Small businesses,2019-20,2.8,18.6
+Small businesses,2020-21,3.1,19.6
+Small businesses,2021-22,3.4,25.3
+Small businesses,2022-23,3.1,25.9
+Small businesses,2023-24,3.2,28.0
+Wealthy individuals,2019-20,0.2,1.6
+Wealthy individuals,2020-21,0.2,1.4
+Wealthy individuals,2021-22,0.3,1.9
+Wealthy individuals,2022-23,0.2,1.9
+Wealthy individuals,2023-24,0.2,2.1

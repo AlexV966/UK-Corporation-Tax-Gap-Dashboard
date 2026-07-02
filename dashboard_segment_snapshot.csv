@@ -1,0 +1,6 @@
+segment,population,paye_nics_receipts_gbp_bn,other_receipts_gbp_bn,compliance_yield_gbp_bn,compliance_spend_gbp_m,tax_gap_gbp_bn,yield_pct_of_gap,spend_per_pound_yield,tax_gap_per_entity_gbp,total_receipts_gbp_bn,gap_pct_of_receipts
+Individual customers,37000000,355,20,3.5,540,2.2,159.1,0.154,59.0,375,0.59
+Wealthy individuals,950000,70,55,3.7,290,2.1,176.2,0.078,2211.0,125,1.68
+Small businesses,5100000,45,100,7.8,750,28.0,27.9,0.096,5490.0,145,19.31
+Mid-sized businesses (charities and public bodies),380000,230,70,7.4,350,4.4,168.2,0.047,11579.0,300,1.47
+Large businesses,2000,145,190,19.7,340,5.8,339.7,0.017,2900000.0,335,1.73
